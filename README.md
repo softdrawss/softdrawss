@@ -1,6 +1,6 @@
 # Hi!
 - 👋 My name is **@softdrawss** aka **Júlia Serra Trujillo**. 
-- 🎓 **Videogames Development and Design** (in English) Degree i n**CITM, UPC**,
+- 🎓 **Bachelor Degree in Videogames Development and Design** (in English) in **CITM, UPC**,
 - 🎵 Currently pursuing a master in **Sound and Music Computing** in **MTG**, in **UPF**
 
 ## Tools
