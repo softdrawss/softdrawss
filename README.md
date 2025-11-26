@@ -1,7 +1,7 @@
 # Hi!
 - 👋 My name is **@softdrawss** aka **Júlia Serra Trujillo**. 
-- 🎓 Studying **Videogames Development and Design** (in English) in Barcelona at **CITM, UPC**,
-- 💬 Feel free to ask me anything!
+- 🎓 **Videogames Development and Design** (in English) Degree i n**CITM, UPC**,
+- 🎵 Currently pursuing a master in **Sound and Music Computing** in **MTG**, in **UPF**
 
 ## Tools
 <p align="left">
